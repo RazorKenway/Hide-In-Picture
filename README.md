@@ -20,7 +20,7 @@
 
 
 
-<hr colour="Red" size="15">
+<hr colour="Red" size="5">
 
 <img src="Hide-In-Picture.png" size ="15">
 
