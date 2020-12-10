@@ -1,24 +1,24 @@
-# Cam-Hacker
+# Hide-In-Picture
 
 ## Command list👇
 
->`apt update && apt upgrade -y`
+>`pkg update && pkg upgrade
 
->`pkg install git -y`
+>`pkg install git
 
->`git clone http://github.com/DaVe-Smith-899/Cam-Hacker.git`
+>`git clone http://github.com/RazorKenway/Hide-In-Picture.git
 
->`cd Cam-Hacker`
+>`cd Hide-In-Picture
 
->`bash camhacker.sh`
+>`python requirements.py
 
-➤දැන් ඔතන ෆොටෝ වැදුනා කියලා වැටුනට පස්සේ මේ කමාන්ඩ් ගහලා ෆොටෝ ටික save කර ගන්න
+>`python hide.py
 
->`cd captured`
 
->`ls`
 
-දැන් ෆොටෝ ටික ෆෝන් එකට කොපි කර ගන්න🖤
+
+
+
 
 <hr colour="Red" size="10">
 <h3>JOIN US :<h3/>
@@ -27,7 +27,7 @@
 <br>
 
 
-පල්ලැහා button click කරලා join වෙන්න 🖤
+
 
 <a href="https://chat.whatsapp.com/DWMOhdZv78RHfYpmVfjBuS"> Whatsapp </a>
 
