@@ -12,4 +12,4 @@ echo -e "\033[1;33m    Update Was Successfully Installed "
 echo -e "\033[1;33m    Tool By  Razor Kenway (SL Android ) Sri lanka')
 sleep 3
 cd Hide-In-Picture
-bash hide.sh
+python hide.py
