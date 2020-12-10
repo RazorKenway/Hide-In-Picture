@@ -20,7 +20,7 @@
 
 
 
-<hr colour="Red" size="10">
+<hr colour="Red" size="8">
 
 <img src="Hide-In-Picture.png">
 
@@ -28,9 +28,9 @@
 
 
 
-<a href="https://www.facebook.com/groups/277920623081269/?ref=share">Facebook GroupGroup </a>
+<a href="https://www.facebook.com/groups/277920623081269/?ref=share">Facebook Group </a>
 
-<a href="https://www.facebook.com/SLAndroidD/">Facebook pagepage </a>
+<a href="https://www.facebook.com/SLAndroidD/">Facebook page </a>
 
 <a href="https://www.youtube.com/c/SLAndroid"> SL Android On Youtube  </a>
 
