@@ -1,6 +1,6 @@
 # Hide-In-Picture
 
-## Command list👇
+## Command list👇👇
 
 >`pkg update && pkg upgrade
 
